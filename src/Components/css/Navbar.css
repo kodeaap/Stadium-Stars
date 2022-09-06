@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+.nav-link{
+    font-family: 'Montserrat', sans-serif !important;
+    font-size: 18px;
+    font-weight: 600;
+}
+.navbar-dark .navbar-toggler{
+    border: none;
+    box-shadow: none;
+}
